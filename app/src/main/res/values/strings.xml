@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">SecondLesson - Calculator</string>
+    <string name="app_name">SecondLesson - CalculatorApp</string>
+    <string name="input_number_hint">Введите число…</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="multiply_sign">*</string>
+    <string name="divide_sign">/</string>
+    <string name="about_author">Об авторе</string>
+    <string name="dividing_zero">Делить на нуль нельзя!</string>
+    <string name="author_heading">Тут должно быть что-то об авторе…</string>
+    <string name="previous_activity_result">Ну хз, что тут написать (неинтересный факт: я 0 в гите, поэтому надеюсь, что все загрузил верно), зато вот - результат с прошлой активити:</string>
+    <string name="thank_you">И огромное спасибо за то, что проводите курс! Ваш труд вдохновляет меня :)</string>
 </resources>
